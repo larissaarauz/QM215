@@ -1,0 +1,4 @@
+nombre,edad,altura
+dict2={'nombre':["Larissa","Jorge","Yoseline","Elvis","Wayneth"],"edad":[19,20,19,19,20],"altura":[1.58,1.60,1.52,1.66,1.67]}
+personas=pd.DataFrame(dict2)
+personas
